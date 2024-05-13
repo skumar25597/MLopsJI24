@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santhoshkumarayyalasomayazula/Documents/MLflow/mlruns/0/1a20a49588de43548154ddcd2a89e0c7/artifacts
+end_time: 1715537264577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a20a49588de43548154ddcd2a89e0c7
+run_name: puzzled-shrew-860
+run_uuid: 1a20a49588de43548154ddcd2a89e0c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715537263063
+status: 3
+tags: []
+user_id: santhoshkumarayyalasomayazula

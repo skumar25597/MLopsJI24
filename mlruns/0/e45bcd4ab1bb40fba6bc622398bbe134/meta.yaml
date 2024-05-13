@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santhoshkumarayyalasomayazula/Documents/MLflow/mlruns/0/e45bcd4ab1bb40fba6bc622398bbe134/artifacts
+end_time: 1715534304962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e45bcd4ab1bb40fba6bc622398bbe134
+run_name: marvelous-shad-472
+run_uuid: e45bcd4ab1bb40fba6bc622398bbe134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715534303456
+status: 3
+tags: []
+user_id: santhoshkumarayyalasomayazula

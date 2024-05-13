@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/santhoshkumarayyalasomayazula/Documents/MLflow/mlruns/0/25f45492c4594beebc9adef79fdddf7a/artifacts
+end_time: 1715536948022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25f45492c4594beebc9adef79fdddf7a
+run_name: nebulous-snipe-497
+run_uuid: 25f45492c4594beebc9adef79fdddf7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715536946176
+status: 4
+tags: []
+user_id: santhoshkumarayyalasomayazula

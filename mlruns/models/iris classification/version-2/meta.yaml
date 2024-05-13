@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715547171567
+current_stage: None
+description: ''
+last_updated_timestamp: 1715547171567
+name: iris classification
+run_id: 1a20a49588de43548154ddcd2a89e0c7
+run_link: ''
+source: models:/iris classification/1
+status: READY
+status_message: null
+storage_location: file:///Users/santhoshkumarayyalasomayazula/Documents/MLflow/mlruns/0/1a20a49588de43548154ddcd2a89e0c7/artifacts/iris-classifier
+user_id: null
+version: 2
